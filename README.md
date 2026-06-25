@@ -1,6 +1,5 @@
 # Guest-MOF-Machine-Learning-Screening
 
-* **Figure 3 in main text**  
+* **Figure2maintext**  
 
-* **directory 2**  
-
+* **Figure3maintext**  
